@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Modelagem computacional de uma epidemia utilizando o modelo SIR'
 external: 'https://github.com/Leonardo-Costa/Modelagem-sistema-SIR-rede'
 tech:
