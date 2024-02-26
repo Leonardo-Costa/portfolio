@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'OCR para reconhecimento de expressões matemáticas'
 external: 'https://github.com/Leonardo-Costa/ocr-equation-solver'
 tech:

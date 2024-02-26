@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '5'
 title: 'Projetos da matéria de Redes neurais'
 external: 'https://github.com/Leonardo-Costa/redes-neurais'
 tech:
